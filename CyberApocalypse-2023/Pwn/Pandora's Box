@@ -1,0 +1,9 @@
+"Pandora's Box" was an Easy challenge in the Pwn category of HTB's CyberApocalypse 2023: The Cursed Mission. Let's begin! 
+
+Tools: 
+- file
+- strings
+- checksec
+- Ghidra 
+- Pwntools
+
